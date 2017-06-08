@@ -1,2 +1,2 @@
-# 10tlforumcreator
-10tl forum kurma programı
+# 10TL Forum Kurma programı
+Ücretsiz olarak kurulum yapmanıza olanak sağlayan programımızı herkese sunabilirsiniz !
